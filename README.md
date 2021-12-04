@@ -1,6 +1,4 @@
 # Python
-## estudos 
-### Python
 
 <div dsplay="inline-block">
  
@@ -44,29 +42,3 @@ Gosto da programação e tenho me aventurado a aprender linguagens para futurame
 <p align="center">
   <img src="https://c.tenor.com/gqHdKmAifdQAAAAC/teclado-sangue.gif" width="350">
 </p>
-
-
-
-
-## O Python é uma linguagem de programação como você já deve ter ouvido falar de várias outras que existem.
-
-Só que foi desenvolvido para ser simples, fácil de aprender e muito versátil, ou seja, você vai poder utilizar essa linguagem para diversas tarefas.
-Pode construir aplicativos, criar sites, desenvolver programas, criar jogos em, fazer análise de dados, inteligência artificial, entre outras atividades.
-Então você tem muitas opções e como é uma linguagem que é mais fácil de aprender é uma linguagem excelente para você começar no mundo da programação.
-Claro que não vai ser a única que vai aprender, mas para iniciar já é uma excelente linguagem e te permite o desenvolvimento e criação de diversos programas.
-Além disso é uma das linguagens de programação mais utilizadas no mundo e no Brasil, fora que é uma das linguagens que mais cresce e por consequência acaba sendo mais valorizada.
-Por ser a linguagem de programação mais utilizada é mais valorizada e pode ser utilizada em diversas áreas, o que pode diferenciar de outras linguagens de programação.
-
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
-
-Funcionalidade do GitHub:
-identificar o projeto
-explicar como irão usar esse projeto
-portifólio pessoal (casa dos códigos)
- # Título
- ## Subtítulo
- ### o que é?
- 
- Badge serve como uma marcação de status, informando quem irá acessar o projeto o estado atual, licença caso tenha, versões, dependências, testes e entre outros.
