@@ -13,3 +13,4 @@ string = "Divisão "
 print (string, dividir)
 print (f"variavel {a} + {b} / 2 = {dividir}")
 print ("variavel {a} + {b} / 2 = {dividir}")
+print ("variavel {a} + {b} = {dividir}")
